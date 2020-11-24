@@ -1,0 +1,38 @@
+Enter the number of vertices : 
+5
+Enter the adjacency matrix :
+0 1 1 99 99
+1 0 99 99 99
+1 99 0 1 1
+99 99 1 0 99
+99 99 1 99 0
+Vector Table of A
+A	0
+B	1
+C	1
+D	2
+E	2
+Vector Table of B
+A	1
+B	0
+C	2
+D	3
+E	3
+Vector Table of C
+A	1
+B	2
+C	0
+D	1
+E	1
+Vector Table of D
+A	2
+B	3
+C	1
+D	0
+E	2
+Vector Table of E
+A	2
+B	3
+C	1
+D	2
+E	0
